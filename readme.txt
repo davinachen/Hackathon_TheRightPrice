@@ -1,0 +1,2 @@
+# The Right Price
+This repo serves as the Hackathon project for DSBA program, with a goal of predicting Paris housing price as well as making an interactive demo for prediction based on certain features.
